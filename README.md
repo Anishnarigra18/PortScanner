@@ -1,16 +1,16 @@
-# PortScanner
+# Port Scanner
 
 ## Description
 
-A Python-based Port Scanner developed using Socket Programming on Kali Linux.
+A Python-based Port Scanner developed using Socket Programming on Kali Linux. The tool scans target systems and identifies open network ports that may be running services.
 
 ## Features
 
-* Scan TCP ports
-* Detect open ports
-* Fast scanning
-* Banner grabbing support
-* Simple command-line interface
+* TCP port scanning
+* Open port detection
+* Custom target scanning
+* Fast network checks
+* Command-line interface
 
 ## Technologies Used
 
@@ -23,6 +23,13 @@ A Python-based Port Scanner developed using Socket Programming on Kali Linux.
 ```bash
 python3 port_scanner.py
 ```
+
+## Learning Outcomes
+
+* Socket programming
+* Network enumeration
+* Port discovery
+* Cybersecurity basics
 
 ## Project Author
 
